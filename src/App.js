@@ -19,14 +19,13 @@ function App() {
         prag="js or ReactJS, is a JavaScript library known for its flexibility and efficiency in creating interactive user interfaces (UIs) for both web and native applications. With its component-based architecture, developers can create UI elements like buttons or search bars." 
       />
       <Cards
-        title="Nodejs"
+        title="Nodejs Express"
         src="https://potomac.edu/wp-content/uploads/2020/12/benefits-of-coding-e1606911064541.jpg"
         prag="Node. js lets developers use JavaScript to write command line tools and server-side scripting. The ability to run JavaScript code on the server is often used to generate dynamic web page content before the page is sent to the user's web browser."
       />
       </div>
       </>
-    );
-    
+    );    
 }
  
 
